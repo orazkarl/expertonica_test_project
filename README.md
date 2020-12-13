@@ -18,6 +18,6 @@ python manage.py createsuperuser
 ```
 
 ## Project setup
-'''
+```
  python manage.py runserver
-'''
+```
